@@ -1,4 +1,11 @@
 ## NovaSR: Pushing the Limits of Extreme Efficiency in Audio Super-Resolution
+
+<p align="center">
+  <a href="https://huggingface.co/YatharthS/NovaSR">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-FFD21E" alt="Hugging Face Model">
+  </a>
+</p>
+
 This is the repository for NovaSR, a tiny 50kb audio upsampling model that upscales muffled 16khz audio into clear and crisp 48khz audio at speeds over 3500x realtime. 
 
 ### Key benefits
