@@ -1,5 +1,13 @@
 ## NovaSR: Pushing the Limits of Extreme Efficiency in Audio Super-Resolution
 
+> [!TIP]
+> Please check out [LavaSR](https://github.com/ysharma3501/LavaSR.git), it has several major benefits over NovaSR
+>
+> - NovaSR: only 16khz input, ~52KB, ~3000× realtime speed, low-medium quality 
+> - LavaSR: supports **any input from 8–48kHz**, **~5000× realtime speed**, 50MB, and significantly better quality(surpasses 6gb models)
+>
+> If you were using the old fast model, try switching to the new one, you’ll get much higher fidelity, flexible input rates, and faster speeds.
+> 
 <p align="center">
   <a href="https://huggingface.co/YatharthS/NovaSR">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-FFD21E" alt="Hugging Face Model">
